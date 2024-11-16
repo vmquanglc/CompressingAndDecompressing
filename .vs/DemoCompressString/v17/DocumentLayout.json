@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# project\\DemoCompressString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A54CB-E2FD-41D9-B351-EBC93A37F366}|DemoCompressString\\DemoCompressString.csproj|d:\\c# project\\democompressstring\\democompressstring\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A80A54CB-E2FD-41D9-B351-EBC93A37F366}|DemoCompressString\\DemoCompressString.csproj|solutionrelative:democompressstring\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A54CB-E2FD-41D9-B351-EBC93A37F366}|DemoCompressString\\DemoCompressString.csproj|d:\\c# project\\democompressstring\\democompressstring\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80A54CB-E2FD-41D9-B351-EBC93A37F366}|DemoCompressString\\DemoCompressString.csproj|solutionrelative:democompressstring\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# project\\DemoCompressString\\DemoCompressString\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoCompressString\\Form1.cs",
+              "ToolTip": "D:\\C# project\\DemoCompressString\\DemoCompressString\\Form1.cs",
+              "RelativeToolTip": "DemoCompressString\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:50:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\DemoCompressString\\DemoCompressString\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoCompressString\\Form1.cs",
+              "ToolTip": "D:\\C# project\\DemoCompressString\\DemoCompressString\\Form1.cs [Design]",
+              "RelativeToolTip": "DemoCompressString\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:47:48.772Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
